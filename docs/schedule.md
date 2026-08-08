@@ -1,7 +1,7 @@
 # ⚽ 一起踢 FC 2026 赛季·赛事日历
 
 > **“并肩作战，永不言败！”** —— 关注我们，为球队每一场比赛呐喊助威！
-> 📅 _最近更新时间：2026 年 7 月 19 日_
+> 📅 _最近更新时间：2026 年 8 月 8 日_
 
 ---
 
@@ -14,6 +14,8 @@
 |          |          |              |               | -->
 
 ---
+
+[订阅我们的赛程日历](webcal://p204-caldav.icloud.com.cn/published/2/MTAyMDMxOTQ0MTkxMDIwMxxwyYyqOBRNuUuOTQNFMknFMu_bnKpB-V9jB7q8Z2imAMOJ0wclyENXspQ8iSafsaDEfA_DuUYI1OFyZx8FrRY)
 
 ## 📅 本月赛程 (2026 年 7 月)
 
@@ -52,8 +54,6 @@
   - **地点：** 基地训练场（封闭集训）
 
 --- -->
-
-## 📊 赛事数据看板
 
 ### 📋 积分榜速递（新安杯 A 组）8 人制
 
