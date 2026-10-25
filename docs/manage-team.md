@@ -53,23 +53,21 @@
   </ul>
 </div>
 
-### Maciel
+### Alex
 
 <div style="width: 200px; text-align: center;">
-  <img src="./images/coachs/Maciel.jpg?size=150" alt="" style="border-radius: 50%;">
-  <p><strong>姓名：</strong> Maciel</p>
+  <img src="." alt="" style="border-radius: 50%;">
+  <p><strong>姓名：</strong> Alex </p>
   <p><strong>职位：</strong> 教练｜Coach</p>
   <p><strong>工作经历：</strong></p>
   <ul style="text-align: left;">
-    <li>2023.6-至今: 当前团队，教练｜Coach</li>
-    <li>2023.6-至今: FC116中国俱乐部，教练</li>
-    <li>2019-2022: FC116 BRASIL，Coach</li>
-    <li>Eschool Physical Education Football Theory</li>
+    <li>2025.1-至今: 当前团队，教练｜Coach</li>
+    <li>2023.6-至今: 深圳绿茵兄弟，教练</li>
   </ul>
 </div>
 </div>
 
-### Sidine
+### Sidnei
 
 <div style="width: 200px; text-align: center;">
   <img src="./images/coachs/Sidine.jpg?size=150" alt="" style="border-radius: 50%;">
@@ -91,10 +89,11 @@
 
 ## 历任教练
 
-- Ryan，2025.4 - 2026.1，巴西
-- Gilsinho，2024.3 - 2025.1，巴西
-- Samuel，2023.5 - 2023.12，巴西
-- Lucas，门将教练，巴西
-- [申成男](https://v.douyin.com/iPkrdUG9/)，技术教练。目前深圳鲲鹏足球俱乐部主教练
-- [杨斌](https://v.douyin.com/iPkrprKA/)，2022 年南山杯比赛教练。目前深圳流浪者足球俱乐部始创人
-- Bau，塞尔维亚
+- Maciel，2023.6-2026.10，巴西 🇧🇷
+- Ryan，2025.4 - 2026.1，巴西 🇧🇷
+- Gilsinho，2024.3 - 2025.1，巴西 🇧🇷
+- Samuel，2023.5 - 2023.12，巴西 🇧🇷
+- Lucas，门将教练，巴西 🇧🇷
+- [申成男](https://v.douyin.com/iPkrdUG9/)，技术教练。目前深圳鲲鹏足球俱乐部主教练 🇨🇳
+- [杨斌](https://v.douyin.com/iPkrprKA/)，2022 年南山杯比赛教练。目前深圳流浪者足球俱乐部始创人 🇨🇳
+- Bau，塞尔维亚 🇷🇸
